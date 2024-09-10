@@ -9,9 +9,9 @@ import sys
 from pynvml import *
 import timeit
 
-def getdata(batch_size):
+def getdata(batch_size, data_path="./human-action-recognition-dataset/Structured/"):
 
-    isExist = os.path.exists("./human-action-recognition-dataset")
+    isExist = os.path.exists(data_path)
     if isExist==False:
         dataset = 'https://www.kaggle.com/datasets/shashankrapolu/human-action-recognition-dataset/data'
         od.download(dataset)
@@ -19,7 +19,7 @@ def getdata(batch_size):
         print("dataset exist")
 
     # Load the datasets
-    data_dir =  "./human-action-recognition-dataset/Structured/"
+    data_dir =  data_path
     
     data_transforms = transforms.Compose([
         transforms.Resize(size=(224, 224)),
