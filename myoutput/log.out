@@ -1,0 +1,157 @@
+cuda available: True
+dataset exist
+data load successfully!
+[INFO]: Loading pre-trained weights
+[INFO]: Freezing hidden layers...
+Epoch 1/30
+Train Epoch Time: 155.4002 sec
+Train Epoch GPU memory used: 1376.6492 MB
+Train loss:2.0523
+Val loss:1.9681
+Epoch 2/30
+Train Epoch Time: 125.1122 sec
+Train Epoch GPU memory used: 1376.6492 MB
+Train loss:1.5574
+Val loss:1.8090
+Epoch 3/30
+Train Epoch Time: 124.5998 sec
+Train Epoch GPU memory used: 1376.6492 MB
+Train loss:1.4483
+Val loss:1.9881
+Epoch 4/30
+Train Epoch Time: 124.3359 sec
+Train Epoch GPU memory used: 1376.6492 MB
+Train loss:1.4048
+Val loss:1.7862
+Epoch 5/30
+Train Epoch Time: 125.0355 sec
+Train Epoch GPU memory used: 1376.6492 MB
+Train loss:1.3567
+Val loss:1.6013
+Epoch 6/30
+Train Epoch Time: 123.4937 sec
+Train Epoch GPU memory used: 1376.6492 MB
+Train loss:1.3244
+Val loss:1.4400
+Epoch 7/30
+Train Epoch Time: 123.2945 sec
+Train Epoch GPU memory used: 1376.6492 MB
+Train loss:1.3074
+Val loss:1.7963
+Epoch 8/30
+Train Epoch Time: 123.0921 sec
+Train Epoch GPU memory used: 1376.6492 MB
+Train loss:1.2985
+Val loss:1.4898
+Epoch 9/30
+Train Epoch Time: 122.8160 sec
+Train Epoch GPU memory used: 1376.6492 MB
+Train loss:1.2891
+Val loss:1.8531
+Epoch 10/30
+Train Epoch Time: 122.9581 sec
+Train Epoch GPU memory used: 1376.6492 MB
+Train loss:1.2672
+Val loss:1.4561
+Epoch 11/30
+Train Epoch Time: 123.1545 sec
+Train Epoch GPU memory used: 1376.6492 MB
+Train loss:1.2718
+Val loss:1.4887
+Epoch 12/30
+Train Epoch Time: 123.0215 sec
+Train Epoch GPU memory used: 1376.6492 MB
+Train loss:1.2683
+Val loss:1.7744
+Epoch 13/30
+Train Epoch Time: 122.6254 sec
+Train Epoch GPU memory used: 1376.6492 MB
+Train loss:1.2475
+Val loss:1.8278
+Epoch 14/30
+Train Epoch Time: 122.6887 sec
+Train Epoch GPU memory used: 1376.6492 MB
+Train loss:1.2577
+Val loss:1.2857
+Epoch 15/30
+Train Epoch Time: 122.7048 sec
+Train Epoch GPU memory used: 1376.6492 MB
+Train loss:1.2618
+Val loss:1.5579
+Epoch 16/30
+Train Epoch Time: 122.5030 sec
+Train Epoch GPU memory used: 1376.6492 MB
+Train loss:1.2616
+Val loss:1.5590
+Epoch 17/30
+Train Epoch Time: 121.9965 sec
+Train Epoch GPU memory used: 1376.6492 MB
+Train loss:1.2510
+Val loss:1.5074
+Epoch 18/30
+Train Epoch Time: 122.2138 sec
+Train Epoch GPU memory used: 1376.6492 MB
+Train loss:1.2332
+Val loss:1.4043
+Epoch 19/30
+Train Epoch Time: 122.3722 sec
+Train Epoch GPU memory used: 1376.6492 MB
+Train loss:1.2221
+Val loss:1.6280
+Epoch 20/30
+Train Epoch Time: 122.0431 sec
+Train Epoch GPU memory used: 1376.6492 MB
+Train loss:1.2309
+Val loss:1.8203
+Epoch 21/30
+Train Epoch Time: 123.2653 sec
+Train Epoch GPU memory used: 1376.6492 MB
+Train loss:1.2477
+Val loss:1.7726
+Epoch 22/30
+Train Epoch Time: 122.7793 sec
+Train Epoch GPU memory used: 1376.6492 MB
+Train loss:1.2359
+Val loss:1.6701
+Epoch 23/30
+Train Epoch Time: 122.9399 sec
+Train Epoch GPU memory used: 1376.6492 MB
+Train loss:1.2272
+Val loss:1.5083
+Epoch 24/30
+Train Epoch Time: 122.9069 sec
+Train Epoch GPU memory used: 1376.6492 MB
+Train loss:1.2341
+Val loss:1.5479
+Epoch 25/30
+Train Epoch Time: 123.2654 sec
+Train Epoch GPU memory used: 1376.6492 MB
+Train loss:1.2252
+Val loss:1.7694
+Epoch 26/30
+Train Epoch Time: 123.3064 sec
+Train Epoch GPU memory used: 1376.6492 MB
+Train loss:1.2188
+Val loss:1.2448
+Epoch 27/30
+Train Epoch Time: 122.6217 sec
+Train Epoch GPU memory used: 1376.6492 MB
+Train loss:1.2180
+Val loss:1.5800
+Epoch 28/30
+Train Epoch Time: 122.6481 sec
+Train Epoch GPU memory used: 1376.6492 MB
+Train loss:1.2169
+Val loss:1.4936
+Epoch 29/30
+Train Epoch Time: 122.2762 sec
+Train Epoch GPU memory used: 1376.6492 MB
+Train loss:1.2150
+Val loss:1.5649
+Epoch 30/30
+Train Epoch Time: 130.7004 sec
+Train Epoch GPU memory used: 1376.6492 MB
+Train loss:1.2213
+Val loss:1.3869
+Accuracy on the test set: 62.857%
+Loss on the test set: 115.31%

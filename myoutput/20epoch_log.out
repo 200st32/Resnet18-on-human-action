@@ -1,0 +1,66 @@
+dataset exist
+data load successfully!
+[INFO]: Loading pre-trained weights
+[INFO]: Fine-tuning all layers...
+Epoch 1/20
+Train loss:1.4599
+Val loss:1.0815
+Epoch 2/20
+Train loss:0.9563
+Val loss:2.7072
+Epoch 3/20
+Train loss:0.6723
+Val loss:0.8434
+Epoch 4/20
+Train loss:0.4501
+Val loss:1.1442
+Epoch 5/20
+Train loss:0.2704
+Val loss:0.4897
+Epoch 6/20
+Train loss:0.2151
+Val loss:0.3594
+Epoch 7/20
+Train loss:0.1811
+Val loss:0.1205
+Epoch 8/20
+Train loss:0.1142
+Val loss:0.1780
+Epoch 9/20
+Train loss:0.1366
+Val loss:0.3432
+Epoch 10/20
+Train loss:0.1304
+Val loss:0.3157
+Epoch 11/20
+Train loss:0.1219
+Val loss:0.0236
+Epoch 12/20
+Train loss:0.0845
+Val loss:0.0705
+Epoch 13/20
+Train loss:0.0474
+Val loss:0.0766
+Epoch 14/20
+Train loss:0.0695
+Val loss:0.3089
+Epoch 15/20
+Train loss:0.1075
+Val loss:0.1145
+Epoch 16/20
+Train loss:0.0791
+Val loss:0.1265
+Epoch 17/20
+Train loss:0.0659
+Val loss:0.1000
+Epoch 18/20
+Train loss:0.0800
+Val loss:0.0546
+Epoch 19/20
+Train loss:0.0492
+Val loss:0.1066
+Epoch 20/20
+Train loss:0.0378
+Val loss:0.0144
+Accuracy on the test set: 63.915%
+Loss on the test set: 188.35%
