@@ -90,8 +90,8 @@ if __name__ == "__main__":
     parser.add_argument("--model_type", type=str, default="torchvision")
     parser.add_argument("--model_mean_parameters", type=list, default=[0.485, 0.456, 0.406])
     parser.add_argument("--model_std_parameters", type=list, default=[0.229, 0.224, 0.225])
-    parser.add_argument("--model_weights_path", type=str, default="./myoutput/torchvision_weight.pt")
-    parser.add_argument("--image_path", type=str, default="./human-action-recognition-dataset/Structured/test/sitting/Image_10677.jpg")
+    parser.add_argument("--model_weights_path", type=str, default="./myoutput/30epoch_torchvision_weight.pt")
+    parser.add_argument("--image_path", type=str, default="./human-action-recognition-dataset/Structured/test/clapping/Image_10614.jpg")
     parser.add_argument("--image_size", type=int, default=224)
     args = parser.parse_args()
 
