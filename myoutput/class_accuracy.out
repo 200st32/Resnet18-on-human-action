@@ -1,0 +1,17 @@
+[INFO]: Loading pre-trained weights
+[INFO]: Fine-tuning all layers...
+calling accuracy: 64.29%
+clapping accuracy: 53.17%
+cycling accuracy: 94.44%
+dancing accuracy: 74.60%
+drinking accuracy: 65.87%
+eating accuracy: 82.54%
+fighting accuracy: 71.43%
+hugging accuracy: 67.46%
+laughing accuracy: 77.78%
+listening_to_music accuracy: 72.22%
+running accuracy: 75.40%
+sitting accuracy: 70.63%
+sleeping accuracy: 84.92%
+texting accuracy: 66.67%
+using_laptop accuracy: 58.73%
